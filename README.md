@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 • sleepy, she/her, 14<br/>
-• Copenhagen, Denmark
+• Copenhagen, Denmark<br/><br/>
 
 • Currently learning Java.<br/>
 
