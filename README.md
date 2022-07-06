@@ -6,12 +6,12 @@
 • Small stuff<br />
 
 <h2>About me</h2>
-• sleepy, she/her, 14<br />
-• Copenhagen, Denmark<br />
+• sleepy, she/her, 14<br/>
+• Copenhagen, Denmark<br/>
 
-• Currently learning Java.<br />
+• Currently learning Java.<br/>
 
-• Discord: sleepy#0153<br />
+• Discord: sleepy#0153<br/>
 
 <h2>Stats</h2>
 <p align = center>
