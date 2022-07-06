@@ -3,7 +3,7 @@
 </div>
 
 <h2>Projects</h2>
-• Other small stuff<br />
+• Small stuff<br />
 
 <h2>About me</h2>
 • sleepy, she/her, 14<br />
