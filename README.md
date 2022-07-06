@@ -7,9 +7,9 @@
 
 <h2>About me</h2>
 • sleepy, she/her, 14<br/>
-• Copenhagen, Denmark<br/>
+• Copenhagen, Denmark
 
-• Currently learning Java.<br/><br/>
+• Currently learning Java.<br/>
 
 • Discord: sleepy#0153<br/>
 
