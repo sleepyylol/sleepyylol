@@ -3,8 +3,7 @@
 </div>
 
 <h2>Projects</h2>
-• sleepyCore (A plugin for Minecraft servers that provide the essentials)<br />
-• Other small stuff
+• Other small stuff<br />
 
 <h2>About me</h2>
 • sleepy, she/her, 14<br />
