@@ -1,3 +1,3 @@
-<p align="center">
+<center>
   # Hii, I'm sleepy 👋
-</p>
+</center>
