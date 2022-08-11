@@ -3,6 +3,7 @@
 </div>
 
 <h2>Projects</h2>
+• Roblox Script Hub<br />
 • Small stuff<br />
 
 <h2>About me</h2>
