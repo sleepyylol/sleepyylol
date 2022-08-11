@@ -6,7 +6,7 @@
 • Small stuff<br />
 
 <h2>About me</h2>
-• sleepy, she/her, 14<br/>
+• sleepy, she/her, 15<br/>
 • Copenhagen, Denmark<br/><br/>
 
 • Currently learning Java.<br/>
