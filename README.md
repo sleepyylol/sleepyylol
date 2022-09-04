@@ -3,7 +3,7 @@
 </div>
 
 <h2>Projects</h2>
-• SKleep - A skript addon that covers most your skript needs.<br />
+• SKleep - An addon to deal with all things related to sleeping.<br />
 • Roblox Script Hub<br />
 • Small stuff<br />
 
