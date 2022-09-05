@@ -23,7 +23,7 @@
 <h2>Stats</h2>
 <p align = center>
   <br />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=uwuaroze&theme=dracula">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=sleepyylol&theme=dracula">
 </p>
 
 - Stolen from @UwUAroze hehe
