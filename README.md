@@ -13,7 +13,7 @@
 <h2>About me</h2>
 • sleepy, she/her, 15<br/>
 • Copenhagen, Denmark<br/>
-• Currently studying CS<br/><br/>
+• HS Dropout<br/><br/>
 
 • Currently learning Java.<br/>
 
