@@ -3,8 +3,10 @@
 </div>
 
 <h2>Projects</h2>
-• SleepyGuard - An advanced Minecraft anticheat to deal with cheaters.<br/ >
 • SKleep - A Skript Addon to deal with all things related to sleeping.<br />
+• SleepyBans - An advanced Minecraft punishment system<br/ >
+• SleepyCore - A server core that kinda sucks <3<br />
+• SleepyGuard - An advanced Minecraft anticheat to deal with cheaters.<br/ >
 • Roblox Script Hub<br />
 • Small stuff<br />
 
