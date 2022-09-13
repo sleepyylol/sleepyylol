@@ -29,5 +29,5 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=sleepyylol&theme=dracula">
 </p>
 
-- Stolen from @UwUAroze hehe
+- Stolen from [@UwUAroze](https://github.com/UwUAroze) hehe
  
