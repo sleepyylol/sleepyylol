@@ -7,7 +7,8 @@
 • SleepyBans - An advanced Minecraft punishment system<br/ >
 • SleepyCore - A server core that kinda sucks <3<br />
 • SleepyGuard - An advanced Minecraft anticheat to deal with cheaters.<br/ >
-• Roblox Script Hub<br />
+• SleepyClient - A private client made for me <3<br/ >
+• SleepyHub - A Roblox script hub.<br />
 • Small stuff<br />
 
 <h2>About me</h2>
