@@ -18,7 +18,7 @@
 
 • Currently learning Java.<br/>
 
-• Discord: sleepy#0153<br/>
+• Discord: aritbh#1019<br/>
 
 <p align="center"><a href="https://discord.com/users/404172784407937024"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/404172784407937024?bg=302c33"></a></p>
 
