@@ -12,7 +12,7 @@
 • Small stuff<br />
 
 <h2>About me</h2>
-• sleepy, she/her, 15<br/>
+• sleepy, she/her, 17<br/>
 • Copenhagen, Denmark<br/>
 • Currently studying CS online<br/><br/>
 
